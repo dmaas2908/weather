@@ -1,2 +1,1 @@
-# weather
-Simple script to query the weather in la
+Simple script to query the weather in la. It requires an openweather api key in api.txt with no newlines.
